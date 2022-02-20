@@ -10,16 +10,13 @@
 <p align="center"> : Tech Stacks that I've used at least once </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/JavaScript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp 
 <br>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Django-003B57?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/SQLite-092E20?style=flat-square&logo=SQLite&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white"/></a>&nbsp 
-
+  
 
 <br>
 <br>
@@ -40,7 +37,13 @@
 		  Bad Film Someliers provides a movie recommendation service for movie fans, especially for those who enjoy B movies.
     </span>
 </p>
-
+<p align="center"> 
+	<a href="#"><b>INVIEW</b></a>
+	<br>
+	<span style="color:grey">
+		INVIEW offers job seekers the easiest and fastest way to practice interviews and find practice partners.
+	</span>
+</p>
 
 <br>
 <br>
