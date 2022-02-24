@@ -38,7 +38,7 @@
     </span>
 </p>
 <p align="center"> 
-	<a href="#"><b>INVIEW</b></a>
+	<a href="https://github.com/alexuhn/INVIEW"><b>INVIEW</b></a>
 	<br>
 	<span style="color:grey">
 		INVIEW offers job seekers the easiest and fastest way to practice interviews and find practice partners.
