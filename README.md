@@ -59,13 +59,13 @@
 <p align="center"> 
     <b>Samsung Software Academy For Youth </b>
 	<br>
-	<span style="color:grey; font-size:14px">2021.07 ~</span>
+	<span style="color:grey; font-size:12px">2021.07 ~</span>
     <br>
-	<span style="color:grey; font-size:14px">1학기 서울5반 성적 우수상 수상</span>
+	<span style="color:grey; font-size:12px">1학기 서울5반 성적 우수상 수상</span>
     <br>
-	<span style="color:grey; font-size:14px">1학기 서울5반 <a href="https://github.com/BadFilmSommeliers">최종 프로젝트</a> 최우수상 수상</span>
+	<span style="color:grey; font-size:12px">1학기 서울5반 <a href="https://github.com/BadFilmSommeliers">최종 프로젝트</a> 최우수상 수상</span>
     <br>
-	<span style="color:grey; font-size:14px">2학기 서울2반 <a href="https://github.com/alexuhn/Sayeon">특화 프로젝트</a> 최우수상 수상</span>
+	<span style="color:grey; font-size:12px">2학기 서울2반 <a href="https://github.com/alexuhn/Sayeon">특화 프로젝트</a> 최우수상 수상</span>
 </p>
 
 <br>
