@@ -14,8 +14,8 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp 
 <br>
   <img src="https://img.shields.io/badge/Django-003B57?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/SQLite-092E20?style=flat-square&logo=SQLite&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
   
 
 <br>
@@ -44,6 +44,13 @@
 		INVIEW offers job seekers the easiest and fastest way to practice interviews and find practice partners.
 	</span>
 </p>
+<p align="center"> 
+	<a href="https://github.com/alexuhn/Sayeon"><b>사진으로 연결하다, 사연</b></a>
+	<br>
+	<span style="color:grey">
+		Sayeon is a random photo penpal service. Sayeon helps you to share your photo with people who have a common interest.
+	</span>
+</p>
 
 <br>
 <br>
@@ -52,7 +59,13 @@
 <p align="center"> 
     <b>Samsung Software Academy For Youth </b>
 	<br>
-	<span style="color:grey">2021.07 ~</span>
+	<span style="color:grey; font-size:14px">2021.07 ~</span>
+    <br>
+	<span style="color:grey; font-size:14px">1학기 서울5반 성적 우수상 수상</span>
+    <br>
+	<span style="color:grey; font-size:14px">1학기 서울5반 <a href="https://github.com/BadFilmSommeliers">최종 프로젝트</a> 최우수상 수상</span>
+    <br>
+	<span style="color:grey; font-size:14px">2학기 서울2반 <a href="https://github.com/alexuhn/Sayeon">특화 프로젝트</a> 최우수상 수상</span>
 </p>
 
 <br>
